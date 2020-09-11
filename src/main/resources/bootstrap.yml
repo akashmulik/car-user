@@ -5,6 +5,6 @@ spring:
       - http://localhost:8888
   profiles:
     active:
-    - dev
+    - prod
   application:
     name: user-service
